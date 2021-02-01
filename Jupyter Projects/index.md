@@ -10,4 +10,4 @@ Here is one of my basic graphs I used in my CTBA course
 - [Basic Graph Assignment (Jupyter notebook)](BasicGraphAssignment.ipynb)
 
 Link to my to repository
-- [Repository](github.com/vothomas1/vothomas1.github.io)
+- [Repository](https://github.com/vothomas1/vothomas1.github.io)
