@@ -1,5 +1,5 @@
 ---
-title: Jupyter Projects
+title: Tommy Vo Jupyter Projects
 description: Of Course Contents
 ---
 
